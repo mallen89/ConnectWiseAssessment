@@ -1,0 +1,6 @@
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessment\bin\Debug\ConnectWiseAssessment.exe.config
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessment\bin\Debug\ConnectWiseAssessment.exe
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessment\bin\Debug\ConnectWiseAssessment.pdb
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessment\obj\Debug\ConnectWiseAssessment.csproj.CoreCompileInputs.cache
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessment\obj\Debug\ConnectWiseAssessment.exe
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessment\obj\Debug\ConnectWiseAssessment.pdb

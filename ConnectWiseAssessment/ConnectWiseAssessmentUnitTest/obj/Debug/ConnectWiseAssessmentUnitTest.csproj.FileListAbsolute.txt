@@ -1,0 +1,17 @@
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\ConnectWiseAssessmentUnitTest.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\ConnectWiseAssessmentUnitTest.pdb
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\ConnectWiseAssessment.exe
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\ConnectWiseAssessment.pdb
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\ConnectWiseAssessment.exe.config
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\obj\Debug\ConnectWiseAssessmentUnitTest.csprojAssemblyReference.cache
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\obj\Debug\ConnectWiseAssessmentUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\obj\Debug\ConnectWiseAssessmentUnitTest.csproj.CopyComplete
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\obj\Debug\ConnectWiseAssessmentUnitTest.dll
+C:\Users\mallen\source\repos\ConnectWiseAssessment\ConnectWiseAssessmentUnitTest\obj\Debug\ConnectWiseAssessmentUnitTest.pdb

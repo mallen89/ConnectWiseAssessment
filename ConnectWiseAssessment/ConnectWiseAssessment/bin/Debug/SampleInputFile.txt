@@ -1,0 +1,14 @@
+(Name)John Doe
+(Age)20
+(City)Ashtabula, OH
+(Flags)NYN
+
+
+(Name)Jane Doe
+(Flags)YNY
+(City)N Kingsville, OH
+
+(Name)Sally Jones
+(Age)25
+(City)Paris
+(Flags)YYY
